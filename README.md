@@ -1,4 +1,4 @@
-#SoundBard_ai
+# SoundBard_ai
 A lightweight Python Discord bot that joins a voice channel, listens in real time using Vosk speech recognition, detects spoken keywords, and plays corresponding audio clips through Discord voice chat.
 
 Designed as a clean, easy-to-understand template for voice-activated Discord automation.
@@ -14,8 +14,8 @@ Features:
 	-More complex event pipelines  
 	-Server moderation tools  
 
-#Installation Steps  
-#1. Get GitHub Files
+# Installation Steps  
+# 1. Get GitHub Files
 i. Download the zipped SoundBard_ai folder from my GitHub (click code -> download zip).  
 ii. Unzip to your preferred file location.
 
