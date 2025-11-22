@@ -95,7 +95,7 @@ sudo apt update
 sudo apt install ffmpeg  
 
 # 6. Install Opus (For MacOS and Linux)
-If you are on windows, skip this step, as Opus should bundled with you python installation. Opus is a C library that handles audio processing.  
+If you are on windows, skip this step, as Opus should be bundled with you python installation. Opus is a C library that handles audio processing.  
 
 i. For MacOS, in terminal run  
 brew install opus
