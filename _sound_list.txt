@@ -1,0 +1,7 @@
+    'boom': 'boom.mp3',
+    'dude': 'bruh.mp3',
+    'chad': 'chad.mp3',
+    'based': 'chad.mp3',
+    'base': 'chad.mp3',
+    'chicken': 'chicken_jockey.mp3',
+    'check': 'chicken_jockey.mp3',
